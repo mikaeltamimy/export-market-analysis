@@ -4,6 +4,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+[![nbviewer](https://img.shields.io/badge/Voir%20le%20notebook-nbviewer-orange?style=for-the-badge&logo=jupyter)](https://nbviewer.org/github/mikaeltamimy/export-market-analysis/blob/main/Produisez_une_%C3%A9tude_de_march%C3%A9_avec_Python-3.ipynb%20copie)
+
 
 > Identification des pays cibles pour l’exportation de **viande de volaille** via l’analyse de données économiques et commerciales internationales (FAO / Banque Mondiale).
 
